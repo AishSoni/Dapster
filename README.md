@@ -17,7 +17,7 @@ The system consists of several clients (peers) and a central server. A peer can 
 ## Download and Compile
 ``` 
 git clone https://github.com/AishSoni/Dapster.git
-cd Dapster.git
+cd Dapster
 make
 ```
 
