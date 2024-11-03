@@ -1,4 +1,4 @@
-# P2P File Sharing System
+# Dapster - A P2P File Sharing System like Napster
 
 ## System Description
 
@@ -41,6 +41,3 @@ share filenums file1, file2, ...
 download filename
 
 ```
-
-## Reference
-Penn State 2019 Fall - CSE 513 LAB1
